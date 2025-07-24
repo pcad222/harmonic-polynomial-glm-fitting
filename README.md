@@ -1,4 +1,4 @@
-# harmonic-polynomial-glm-fitting#
+# harmonic-polynomial-glm-fitting
 
 This repository contains code for fitting magnetic field data (Bx, By, Bz) using harmonic polynomial basis functions via generalized linear model (GLM) least-squares fitting.
 
